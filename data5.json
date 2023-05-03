@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "NAJAH",
+        "lname": "4BUSNIESS",
+        "age": 41,
+        "city": "syrei"
+    },
+    {
+        "id": 3,
+        "fname": "NAJAH",
+        "lname": "4BUSNIESS",
+        "age": 42,
+        "city": "syrei"
+    },
+    {
+        "id": 5,
+        "fname": "NAJAH",
+        "lname": "4BUSNIESS",
+        "age": 43,
+        "city": "syrei"
+    },
+    {
+        "id": 7,
+        "fname": "NAJAH",
+        "lname": "4BUSNIESS",
+        "age": 44,
+        "city": "syrei"
+    },
+    {
+        "id": 9,
+        "fname": "NAJAH",
+        "lname": "4BUSNIESS",
+        "age": 45,
+        "city": "syrei"
+    },
+    {
+        "id": 10,
+        "fname": "NAJAH",
+        "lname": "4BUSNIESS",
+        "age": 46,
+        "city": "syrei"
+    }
+]
